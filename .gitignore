@@ -1,0 +1,12 @@
+# Project
+**/styles.css
+
+# Go
+go.sum
+**/*_templ.go
+
+# Air
+tmp/
+
+# VSCode
+.vscode
